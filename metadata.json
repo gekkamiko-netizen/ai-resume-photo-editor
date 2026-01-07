@@ -1,0 +1,5 @@
+{
+  "name": "履歴書AI写真くん",
+  "description": "スマホの写真を送るだけで、AIがスーツ姿の履歴書用写真に変換します。背景も清潔な白に自動補正されます。",
+  "requestFramePermissions": []
+}
